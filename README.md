@@ -18,7 +18,7 @@ O sistema monitora a intensidade de luz através da Célula Solar. Quando a luz 
 
 ## 📊 Diagrama da Arquitetura
 
-![Diagrama do Sistema](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/NOME_DA_IMAGEM.png?raw=true)
+![Diagrama do Sistema](https://github.com/liviadantas11/Sprint2-EnergiaInteligente/blob/main/Captura%20de%20tela%202025-06-15%20141344.png?raw=true)
 
 
 
