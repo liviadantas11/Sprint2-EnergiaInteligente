@@ -26,5 +26,5 @@ O sistema monitora a intensidade de luz através da Célula Solar. Quando a luz 
 - [Vídeo no YouTube](https://youtu.be/udZc2jsmgb4)
 - [Simulação no TinkerCad](https://www.tinkercad.com/things/i8p939seK8s-sprint2-sres)
 
-## 👩‍💻 Código-fonte
+## Código fonte 
 Veja o arquivo `codigo.ino` neste repositório.
