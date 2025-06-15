@@ -18,7 +18,7 @@ O sistema monitora a intensidade de luz através da Célula Solar. Quando a luz 
 
 ## Diagrama da Arquitetura
 ![Diagrama do Sistema](![image](https://github.com/user-attachments/assets/eff15e6d-8bef-44b5-ad93-bab71181efcc)
-)
+
 
 
 ## 🔗 Links importantes
