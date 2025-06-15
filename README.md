@@ -17,7 +17,7 @@ Demonstrar uma prova de conceito funcional de um sistema automatizado, que simul
 O sistema monitora a intensidade de luz através da Célula Solar. Quando a luz atinge um certo nível (simulando sol forte), o LED é acionado, representando o uso de uma carga com energia solar.
 
 ## Diagrama da Arquitetura
-![Diagrama do Sistema](![image](https://github.com/user-attachments/assets/eff15e6d-8bef-44b5-ad93-bab71181efcc)
+(![image](https://github.com/user-attachments/assets/eff15e6d-8bef-44b5-ad93-bab71181efcc)
 
 
 
