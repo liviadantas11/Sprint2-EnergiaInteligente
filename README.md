@@ -3,20 +3,20 @@
 ## 💡 Tema
 Protótipo funcional simulado de automação baseada em energia solar, utilizando TinkerCad, para otimizar o uso de energia em sistemas residenciais.
 
-## 🎯 Objetivo
+## Objetivo
 Demonstrar uma prova de conceito funcional de um sistema automatizado, que simula o acionamento de cargas com base na intensidade da radiação solar, promovendo eficiência energética.
 
-## 🔧 Componentes usados
+## Componentes usados
 - Arduino Uno (simulado)
 - Célula Solar 
 - Resistor de 10kΩ
 - LED (simula uma carga)
 - TinkerCad (para simulação do circuito)
 
-## ⚙️ Funcionamento
+##  Funcionamento
 O sistema monitora a intensidade de luz através da Célula Solar. Quando a luz atinge um certo nível (simulando sol forte), o LED é acionado, representando o uso de uma carga com energia solar.
 
-## 📊 Diagrama da Arquitetura
+## Diagrama da Arquitetura
 
 ![Diagrama do Sistema](https://github.com/liviadantas11/Sprint2-EnergiaInteligente/blob/main/Captura%20de%20tela%202025-06-15%20141344.png?raw=true)
 
