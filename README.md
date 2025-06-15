@@ -28,3 +28,9 @@ O sistema monitora a intensidade de luz através da Célula Solar. Quando a luz 
 
 ## Código fonte 
 Veja o arquivo `codigo.ino` neste repositório.
+
+### Integrantes
+- Leticia Giordani rm:564028
+- Lívia Dos Santos rm:562967
+- Luize Martinês   rm:564016  
+- Sarah Sayako     rm:563841
