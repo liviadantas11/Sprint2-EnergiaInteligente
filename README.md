@@ -22,7 +22,7 @@ O sistema monitora a intensidade de luz através da Célula Solar. Quando a luz 
 
 
 
-## 🔗 Links importantes
+## Links importantes
 - [Vídeo no YouTube](https://youtu.be/udZc2jsmgb4)
 - [Simulação no TinkerCad](https://www.tinkercad.com/things/i8p939seK8s-sprint2-sres)
 
